@@ -10,7 +10,7 @@
 
     ```shell
     # create a new Gatsby site using the minimal TypeScript starter
-    npx gatsby new my-gatsby-site git@gitlab.com:good-praxis/internal/ts-gatsby-starter.git
+    npx gatsby new my-gatsby-site git@github.com:GoodPraxis/ts-gatsby-starter.git
     ```
 
 2.  **Start developing.**
