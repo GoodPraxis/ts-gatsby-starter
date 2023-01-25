@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://goodpraxis.coop">
+    <img alt="Good Praxis" src="https://goodpraxis.coop/images/og.png" width="600" />
+  </a>
+</p>
 <h1 align="center">
   Good Praxis' Gatsby minimal TypeScript starter
 </h1>
