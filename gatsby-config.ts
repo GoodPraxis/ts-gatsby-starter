@@ -2,7 +2,7 @@ import type { GatsbyConfig } from 'gatsby';
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: 'Clarissa Frontend',
+    title: 'Website',
     siteUrl: 'https://www.yourdomain.tld',
   },
   // More easily incorporate content into your pages through automatic
