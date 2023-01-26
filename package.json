@@ -1,9 +1,8 @@
 {
-  "name": "clarissa-frontend",
+  "name": "ts-gatsby-starter",
   "version": "1.0.0",
-  "private": true,
-  "description": "clarissa-frontend",
-  "author": "Maciek Baron",
+  "description": "ts-gatsby-starter",
+  "author": "Good Praxis",
   "keywords": [
     "gatsby"
   ],
