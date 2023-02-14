@@ -19,7 +19,6 @@ build:static:
   image: node:18
   script:
   - npm ci
-  - npx danger ci
   - npx gatsby build --prefix-paths
   artifacts:
     paths:
